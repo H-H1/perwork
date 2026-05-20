@@ -1,0 +1,28 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "Amtion · 瓦尔基里专精",
+				"navigationBarBackgroundColor": "#0b1120",
+				"navigationBarTextStyle": "white",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/apex/apex",
+			"style": {
+				"navigationBarTitleText": "翱翔不止 · 战意不息",
+				"navigationBarBackgroundColor": "#0b1120",
+				"navigationBarTextStyle": "white",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "Amtion",
+		"navigationBarBackgroundColor": "#0b1120",
+		"backgroundColor": "#0b1120"
+	}
+}
