@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  # Frontend service - uni-app Vue.js application
+  frontend:
+    image: per:v1
+    container_name: frontend
+    ports:
+      - 80:80
+    restart: always

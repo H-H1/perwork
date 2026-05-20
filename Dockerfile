@@ -1,9 +1,5 @@
 FROM node:22-alpine AS build-stage
 
-# 前端通过 nginx 反向代理访问后端，使用相对路径
-# 浏览器访问 /api，nginx 转发到 http://yuchat_backend:5000
-ENV VUE_APP_API_BASE_URL=""
-
 WORKDIR /app
 COPY package*.json ./
 RUN npm install

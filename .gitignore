@@ -19,3 +19,18 @@ dist
 *.njsproj
 *.sln
 *.sw?
+
+# Docker
+.env
+.env.local
+.env.*.local
+docker-compose.override.yml
+*.dockerfile
+Dockerfile.dev
+
+# Docker volumes
+backend-placeholder/
+
+# Docker Compose build artifacts
+.docker/
+docker-compose-build/
