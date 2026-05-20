@@ -8,7 +8,7 @@
           <text class="nav-back-arrow">←</text>
           <text class="nav-back-text">返回</text>
         </navigator>
-        <text class="nav-title">关于 黄域琪</text>
+        <text class="nav-title">关于 黄彧祁</text>
         <view class="nav-placeholder" />
       </view>
     </view>
@@ -201,7 +201,7 @@
       <!-- 底部 -->
       <view class="footer">
         <text class="footer-text">翱翔天际者，终能掌控战场</text>
-        <text class="footer-brand">黄域琪 · 个人主页</text>
+        <text class="footer-brand">黄彧祁 · 个人主页</text>
       </view>
     </scroll-view>
   </view>
