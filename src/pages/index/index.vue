@@ -20,7 +20,7 @@
 
       <!-- 姓名按钮 -->
       <navigator url="/pages/apex/apex" class="name-btn" hover-class="name-btn-active">
-        <text class="name-text">黄域琪</text>
+        <text class="name-text">黄彧祁</text>
         <text class="name-subtitle">点击进入个人页面</text>
       </navigator>
     </view>
